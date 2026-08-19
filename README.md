@@ -5,3 +5,4 @@ And then I went into Power query transformation library, in this stage I was abl
 I also loaded my data before starting the analysis 
 I went into creating relationships between the budget, sales, products, territories, calendar and customers 
 after which I began to create my visuals to make the data to be easily understand, at the end of the analysis I was able to get the sum of budget, sales amount and tax amount for each year, which helped me to discover the business problem and give a recommendation.
+(Dashboard)(dashboard.Jpg)
