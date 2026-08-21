@@ -6,3 +6,4 @@ I also loaded my data before starting the analysis
 I went into creating relationships between the budget, sales, products, territories, calendar and customers 
 after which I began to create my visuals to make the data to be easily understand, at the end of the analysis I was able to get the sum of budget, sales amount and tax amount for each year, which helped me to discover the business problem and give a recommendation.
 (Dashboard)(dashboard.Jpg)
+<img width="1532" height="1056" alt="17872906949038654107713681322713" src="https://github.com/user-attachments/assets/a8d9b8f8-5532-4802-ba1f-0f4ca8d3eeb2" />
